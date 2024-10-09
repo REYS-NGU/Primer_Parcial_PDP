@@ -1,0 +1,9 @@
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.AppDetecBord.resources
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.Properties.Resources.resources
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.csproj.GenerateResource.Cache
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\bin\Debug\DetectarBordes.exe.config
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\bin\Debug\DetectarBordes.exe
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\bin\Debug\DetectarBordes.pdb
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.exe
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.pdb
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.csprojResolveAssemblyReference.cache
